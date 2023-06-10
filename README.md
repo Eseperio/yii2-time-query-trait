@@ -1,3 +1,5 @@
+    NOTE: this is a work in progress
+
 yii2-time-utils
 ================
 
