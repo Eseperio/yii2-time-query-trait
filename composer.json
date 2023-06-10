@@ -1,0 +1,21 @@
+{
+    "name": "eseperio/yii2-time-utils",
+    "description": "A collection of utils for working with time in Yii2",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "2.0.26"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "eseperio\\time\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "E.Alamo",
+            "email": "erosdelalamo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
